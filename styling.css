@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/Users/orennoyes/Desktop/h1 {.css">
+</head>
+<body>
+    <h1>My<span class="white">Cloud</span></h1>
+    <h2>Completed Projects:</h2>
+    <h3>Contact Us:</h3>
+</body>
+</html>
+
+
+h1 {
+    background-color: black;
+    color: aqua
+    
+}
+
+.white {
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    background-color: rebeccapurple;
+
+}
+
+h3 {
+    text-align: right;
+    background-color: skyblue;
+    color: black;
+
+}
