@@ -1,0 +1,41 @@
+/* here is the .css for flex our blocks, didn't feel the need to include the html but let me know if I should next time */
+
+.container{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    padding: 20px;
+}
+.top-nav {
+    height: 150px;
+    background-color: green;
+    margin-bottom: 20px;
+}
+.side-nav {
+    height: 300px;
+    width: 200px;
+    background-color: blue;  
+}
+.main {
+    height: 400px;
+    width: 700px;
+    background-color: red;
+    padding: 10px;
+    margin-left: 20px;
+}
+.sub-content {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin: 10px;
+}
+#advertisement {
+    height: 120px;
+    width: 660px;
+    background-color: purple;
+    margin: 10px;
+}
+.row {
+    /* TODO - what should go here? (display: flex; should go here) I used all margin and padding values from plotting_our_blocks */
+    display: flex;
+}
